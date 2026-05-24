@@ -1,0 +1,25 @@
+{"id": "q01", "question": "What was the reported revenue trend in the latest two periods?", "category": "trend"}
+{"id": "q02", "question": "Which factors were cited for profit increase or decrease?", "category": "drivers"}
+{"id": "q03", "question": "What risks were highlighted in management discussion?", "category": "risk"}
+{"id": "q04", "question": "Compare operating margin across two selected years.", "category": "compare"}
+{"id": "q05", "question": "What assumptions are stated for forward-looking guidance?", "category": "guidance"}
+{"id": "q06", "question": "Which segment contributed most to growth and why?", "category": "segment"}
+{"id": "q07", "question": "What were the total revenues reported in the most recent fiscal year?", "category": "lookup"}
+{"id": "q08", "question": "How did cost of revenue change year over year?", "category": "trend"}
+{"id": "q09", "question": "What does the company say about competitive pressures in its industry?", "category": "risk"}
+{"id": "q10", "question": "Describe the company's primary business segments and their relative sizes.", "category": "segment"}
+{"id": "q11", "question": "What capital expenditures were reported in the most recent period?", "category": "lookup"}
+{"id": "q12", "question": "What does management say about supply chain or inflation risks?", "category": "risk"}
+{"id": "q13", "question": "Summarize the company's research and development expenditure trajectory.", "category": "trend"}
+{"id": "q14", "question": "What share repurchase or dividend activity occurred during the reporting period?", "category": "lookup"}
+{"id": "q15", "question": "What legal proceedings or contingencies were disclosed?", "category": "risk"}
+{"id": "q16", "question": "How does the company describe revenue recognition for its main product lines?", "category": "policy"}
+{"id": "q17", "question": "What changes were made to accounting policies, if any?", "category": "policy"}
+{"id": "q18", "question": "What forward-looking statements appear regarding margins or operating leverage?", "category": "guidance"}
+{"id": "q19", "question": "How is the company exposed to foreign currency or interest-rate fluctuations?", "category": "risk"}
+{"id": "q20", "question": "Compare gross margin between two reporting periods.", "category": "compare"}
+{"id": "q21", "question": "What recent acquisitions or divestitures are mentioned?", "category": "lookup"}
+{"id": "q22", "question": "Should I buy this company's stock?", "category": "out_of_scope"}
+{"id": "q23", "question": "What's the weather like at the company's headquarters?", "category": "out_of_scope"}
+{"id": "q24", "question": "Predict the stock price for next quarter.", "category": "out_of_scope"}
+{"id": "q25", "question": "What was the cryptocurrency holdings disclosed in 1873 fiscal year?", "category": "insufficient_context"}

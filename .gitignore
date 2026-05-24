@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+
+# Persisted vector index (rebuildable)
+chroma_db/
+
+# Raw filings (large; user supplies)
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed chunks (rebuildable)
+data/processed/*
+!data/processed/.gitkeep
+
+# Streamlit log
+streamlit.log
+
+# OS
+.DS_Store
+Thumbs.db
